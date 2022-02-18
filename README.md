@@ -1,6 +1,12 @@
 ## Jonny Abrams
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. After all it combines elements of all my main passions: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with RSpec heckling away from the gallery.
+
+As for so many, the pandemic had sparked within me the appetite for a new challenge. Somewhat by chance I'd been taking heed of a string of testimonials from professional coders, personal acquaintances or otherwise, as to how much they enjoyed their work. Since I already knew some basic HTML from editing websites, I thought I'd give it a whirl and buried my head in freecodecamp's online courses for a week or so. When I found myself shunning televised football in favour of CodeWars katas of a weekend, I realised I was besotted.
+
+In my time as a journalist and website editor, I got to do many things I could previously only have dreamed of: I'd conducted face-to-face interviews with household names from the worlds of sport and entertainment, including many personal heroes, and I'd poured my accumulated expertise and contacts into setting up a small media company with a close friend. The company had its ups and downs, but it unlocked a lot of initiative and self-discipline that I didn't know I had. I had to constantly dream up new features, fine-tune existing ones and mentor new writers, just as I myself had been mentored when starting out on the Entertainment desk at Edinburgh Evening News. It also required a level of research that continues to serve me well when new challenges present themselves.
+
+As it became increasingly clear that this coding business was something I could see myself happily doing for the rest of my working life, I decided to take the plunge and enrol at Makers Academy, an intensive 16-week programming bootcamp in London.
 
 ## Projects
 
