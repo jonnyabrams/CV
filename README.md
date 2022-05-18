@@ -1,19 +1,23 @@
 ## Jonny Abrams
 
-Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. After all it combines elements of all my main passions: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with RSpec heckling away from the gallery.
+Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. It combines key elements of my other main passions in life: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with the testing frameworks heckling away from the gallery (Jest couldn't be more aptly named in this regard).
 
-As for so many, the pandemic had sparked within me the appetite for a new challenge. Somewhat by chance I'd been taking heed of a string of testimonials from professional coders, personal acquaintances or otherwise, as to how much they enjoyed their work. Since I already knew some basic HTML from editing websites, I thought I'd give it a whirl and buried my head in freecodecamp's online courses for a week or so. When I found myself shunning televised football in favour of CodeWars katas of a weekend, I realised I was besotted.
+The deeper I dive into it, the more fascinating and rewarding it seems to get, so it seems like a no-brainer to make a career out of it. Having encountered a string of testimonials from professional coders as to how much they enjoy their work, I thought I'd see what all the fuss was about. I knew some basic HTML from my journalism days, so I buried my head in freecodecamp's online courses before eventually enrolling at the Makers Academy boot camp in London. 
 
-In my time as a journalist and website editor, I got to do many things I could previously only have dreamed of: I'd conducted face-to-face interviews with household names from the worlds of sport and entertainment, including many personal heroes, and I'd poured my accumulated expertise and contacts into setting up a small media company with a close friend. The company had its ups and downs, but it unlocked a lot of initiative and self-discipline that I didn't know I had. I had to constantly dream up new features, fine-tune existing ones and mentor new writers, just as I myself had been mentored when starting out on the Entertainment desk at Edinburgh Evening News. It also required a level of research that continues to serve me well when new challenges present themselves.
+How sweetly naive it seems to me now, the notion that knowing some basic HTML would stand me in good stead for what was to come. Nevertheless I'd like to think I rose to the challenge, primarily because I really, really enjoy it. Ever since I found myself shunning televised football matches to do Codewars katas during the run-up to Makers, I knew this is what I wanted to be doing with my life.
+ 
+In my time as a journalist and online editor, I got to do many things I could previously only have dreamed of: I'd conducted face-to-face interviews with household names from the worlds of sport and entertainment, including many personal heroes, and I'd poured my accumulated expertise and contacts into setting up a small media company. These experiences unlocked a lot of initiative and self-discipline that I didn't know I had; I had to constantly dream up new features, fine-tune existing ones and mentor new writers, just as I myself had been mentored when starting out on the Entertainment desk at Edinburgh Evening News. It also required a level of research that continues to serve me well when new challenges present themselves.
 
-As it became increasingly clear that this coding business was something I could see myself happily doing for the rest of my working life, I decided to take the plunge and enrol at Makers Academy, an intensive 16-week programming bootcamp in London.
+My time at Makers taught me so much, not least that I absolutely love working as part of a team. The best weeks of the course for me were those spent doing group projects, and I found Makers' emphasis on pair-programming to be ideal. I'm a sociable person and the daily interaction reawakened something in me that had been supressed by years of working relatively individually. Even when the collaborative working was remote, it was a joy to bounce ideas off other people and learn from them. 
+
+I've decided to be picky with my job hunt to try and land something I think I'd really enjoy and that I'd feel proud to be contributing to, so if you're reading this (and congratulations on making it this far) then I really would love to be part of your team.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Acebook | A Facebook clone | JavaScript, Express, CSS, MongoDB, Handlebars             |
+| Tom's Escape        | A 3-level point & click game | React, CSS, MongoDB |
 
 ## Work Experience
 
