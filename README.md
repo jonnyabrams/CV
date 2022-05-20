@@ -16,20 +16,44 @@ I've decided to be picky with my job hunt to try and land something I think I'd 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Acebook | A Facebook clone | JavaScript, Express, CSS, MongoDB, Handlebars             |
-| Tom's Escape        | A 3-level point & click game | React, CSS, MongoDB |
+| [Acebook](https://github.com/jonnyabrams/acebook-quack-overflow) | A Facebook clone | JavaScript, Express, CSS, MongoDB, Handlebars             |
+| [Goal Setter](https://github.com/jonnyabrams/goalsetter-app-mern-stack)  | A goal-setting app | React/Redux, Express |
+| [Tom's Escape](https://github.com/jonnyabrams/toms-escape-game)        | A 3-level point & click game | React, CSS, MongoDB |
+| [Chitter](https://github.com/jonnyabrams/chitter-challenge)  | A Twitter clone | Ruby, Capybara, Sinatra, PostgreSQL |
+
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sinton Media Ltd** (2011-2021)  
+_Writer/editor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Creating and running new websites for Sinton Media Ltd using contacts and expertise from previous experience
+- Writing daily articles reflecting current trends and breaking news stories
+- Taking the lead on every aspect of interviews, from sourcing and conducting them through to transcription and publishing 
+- Researching data to compile score predictions and fantasy football tips as weekly features 
+- Procuring, mentoring and coordinating freelance writers joining the team
+- Maintaining a presence on various social media platforms to promote content and monitor viral trends
+- Using SEO to maximise incoming traffic and Google rankings
+- Negotiating with prospective advertisers and affiliates
+- Sourcing and editing high-resolution images to match the design of the websites
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sport.co.uk (Media Corp)** (2009-2011)  
+_Staff writer_
 
-- Any experience relevent to software development
+- Publishing news articles and writing features on football, rugby, cricket, darts etc
+- Interviewing high-profile sporting figures, supported by in-depth research to establish rapport with interviewee and stimulate original conversation
+- Identifying newsworthy angles from the interview transcript with a view to following them up with news stories and social media posts
+- Sub-editing colleagues’ articles, ensuring high standards of English and compliance to style guides
+- Establishing working relationships with PR companies and agents
+
+**Edinburgh Evening News** (2007-2008)
+_Features writer_
+
+- Reviewing live comedy, music and theatre
+- Previewing upcoming events and compiling listings
+- Covering lifestyle topics such as pets, gardening, restaurants etc
+- Interviewing a range of celebrities and members of the public (vox pops) using various mediums such as telephone, face-to-face, emails etc
+- Organising weekly and daily tasks to ensure deadlines are met
 
 ## Skills
 
