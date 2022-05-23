@@ -60,6 +60,14 @@ From very early on in my career I was entrusted with proofreading and subediting
 
 It's always been incumbent on me to drive the creation and implementation of new features for the publications I've worked at. In fact, it was my supply of ideas that earned me a position at Sport.co.uk following me initial period of work experience. In my spare time my hobbies are making music and comedy. A bit of lateral thinking shouldn't go amiss in the world of software development, and it's always been a strength of mine.
 
+#### Personability
+
+I tend to get on well with pretty much anyone, which is why I was always entrusted with establishing and maintaining working relationships with PR personnel, and interviewing public figures, where the feature would often sink or swim based on how effectively you could establish an immediate rapport with the interviewee.
+
+#### Adaptability
+
+
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
