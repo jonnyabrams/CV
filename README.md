@@ -24,7 +24,7 @@ I've decided to be picky with my job hunt to try and land something I think I'd 
 
 ## Work Experience
 
-**Sinton Media Ltd** (2011-2021)  
+**Sinton Media Ltd** (2011-2021)
 _Writer/editor_
 
 - Creating and running new websites for Sinton Media Ltd using contacts and expertise from previous experience
@@ -33,7 +33,7 @@ _Writer/editor_
 - Negotiating with prospective advertisers and affiliates
 - Sourcing and editing high-resolution images to match the design of the websites
 
-**Sport.co.uk (Media Corp)** (2009-2011)  
+**Sport.co.uk (Media Corp)** (2009-2011)
 _Staff writer_
 
 - Publishing news articles and writing features on football, rugby, cricket, darts etc
