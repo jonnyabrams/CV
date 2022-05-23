@@ -66,7 +66,7 @@ I tend to get on well with pretty much anyone, which is why I was always entrust
 
 #### Adaptability
 
-
+At the Edinburgh Evening News I had to write features about pets, gardening and restaurants, despite at the time not owning a pet, not having a garden and not eating out often. At Sport.co.uk I was tasked with writing about sports with which I was relatively unfamiliar. Because of my ability to learn a lot in a short space of time, I always made it work. I can only envisage this serving me well as a junior developer!
 
 ## Education
 
