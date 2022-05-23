@@ -70,25 +70,32 @@ At the Edinburgh Evening News I had to write features about pets, gardening and 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
+#### Makers Academy (February 2022 to May 2022)
+- Pair programming
+- Test Driven Development
+- JavaScript
+- React
+- Ruby
+- OOP
+- MVC
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- Jest
+- RSpec
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Probably a whole lot more besides
 
-#### Your University / College (start_date to end_date)
+#### London College of Communication (2008 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Completed a postgraduate course in Journalism
+- Would have stayed on to make it an MA but I went straight into employment after the editor of Sport.co.uk came in to give a talk then took me on
 
-#### Any other qualifications
+#### Popular Music BA at Liverpool University (2:1) (2004 to 2007)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Learned theory and some sweet studio skills that I continue to make use of to this day
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I'm a keen musician and songwriter, a veteran of the Camden pub circuit. As well as that I've tried my hand at comedy, performing at the Edinburgh Fringe in 2018 and Glasgow Fringe in 2019. This latter hobby also led to a couple of bizarre TV appearances.
