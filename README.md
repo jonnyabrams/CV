@@ -28,10 +28,6 @@ I've decided to be picky with my job hunt to try and land something I think I'd 
 _Writer/editor_
 
 - Creating and running new websites for Sinton Media Ltd using contacts and expertise from previous experience
-- Writing daily articles reflecting current trends and breaking news stories
-- Taking the lead on every aspect of interviews, from sourcing and conducting them through to transcription and publishing 
-- Researching data to compile score predictions and fantasy football tips as weekly features 
-- Procuring, mentoring and coordinating freelance writers joining the team
 - Maintaining a presence on various social media platforms to promote content and monitor viral trends
 - Using SEO to maximise incoming traffic and Google rankings
 - Negotiating with prospective advertisers and affiliates
@@ -53,13 +49,16 @@ _Features writer_
 - Previewing upcoming events and compiling listings
 - Covering lifestyle topics such as pets, gardening, restaurants etc
 - Interviewing a range of celebrities and members of the public (vox pops) using various mediums such as telephone, face-to-face, emails etc
-- Organising weekly and daily tasks to ensure deadlines are met
 
 ## Skills
 
 #### Attention to Detail
 
 From very early on in my career I was entrusted with proofreading and subediting duties due to my sharp eye for factual and grammatical accuracy. Needless to say these instincts have been a huge help when it comes to debugging! In my time I've interviewed hundreds of public figures and was always allowed to take the lead on every step of the process: sourcing the interview, researching it, conducting it, transcribing it and eventually publishing it (usually via a WordPress system). I believe this is testament to my thoroughness.
+
+#### Creativity
+
+It's always been incumbent on me to drive the creation and implementation of new features for the publications I've worked at. In fact, it was my supply of ideas that earned me a position at Sport.co.uk following me initial period of work experience. In my spare time my hobbies are making music and comedy. A bit of lateral thinking shouldn't go amiss in the world of software development, and it's always been a strength of mine.
 
 ## Education
 
