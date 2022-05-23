@@ -57,33 +57,9 @@ _Features writer_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Attention to Detail
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+From very early on in my career I was entrusted with proofreading and subediting duties due to my sharp eye for factual and grammatical accuracy. Needless to say these instincts have been a huge help when it comes to debugging! In my time I've interviewed hundreds of public figures and was always allowed to take the lead on every step of the process: sourcing the interview, researching it, conducting it, transcribing it and eventually publishing it (usually via a WordPress system). I believe this is testament to my thoroughness.
 
 ## Education
 
