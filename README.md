@@ -64,9 +64,17 @@ It's always been incumbent on me to drive the creation and implementation of new
 
 I tend to get on well with pretty much anyone, which is why I was always entrusted with establishing and maintaining working relationships with PR personnel, and interviewing public figures, where the feature would often sink or swim based on how effectively you could establish an immediate rapport with the interviewee.
 
+#### Communication
+
+Spending years in constant contact with editors, co-writers, researchers, PR and advertisers has honed my ability to get across exactly what's required at any given moment, not to mention my ability to give and receive feedback. This has been of great benefit while pair-programming.
+
 #### Adaptability
 
 At the Edinburgh Evening News I had to write features about pets, gardening and restaurants, despite at the time not owning a pet, not having a garden and not eating out often. At Sport.co.uk I was tasked with writing about sports with which I was relatively unfamiliar. Because of my ability to learn a lot in a short space of time, I always made it work. I can only envisage this serving me well as a junior developer!
+
+#### Compliance with Tight Deadlines
+
+I mean, this just came with the territory...
 
 ## Education
 
