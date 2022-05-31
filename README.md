@@ -2,6 +2,8 @@
 
 Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. It combines key elements of my other main passions in life: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with the testing frameworks heckling away from the gallery (Jest couldn't be more aptly named in this regard).
 
+(Sometimes it requires the stamina of long-distance running, although Pomodoro helps make this a little more like interval training...)
+
 The deeper I dive into it, the more fascinating and rewarding it seems to get, so it seems like a no-brainer to make a career out of it. Having encountered a string of testimonials from professional coders as to how much they enjoy their work, I thought I'd see what all the fuss was about. I knew some basic HTML from my journalism days, so I buried my head in freecodecamp's online courses before eventually enrolling at the Makers Academy boot camp in London. 
 
 How sweetly naive it seems to me now, the notion that knowing some basic HTML would stand me in good stead for what was to come. Nevertheless I'd like to think I rose to the challenge, primarily because I really, really enjoy it. Ever since I found myself shunning televised football matches to do Codewars katas during the run-up to Makers, I knew this is what I wanted to be doing with my life.
@@ -93,7 +95,7 @@ I mean, this just came with the territory...
 - Jest
 - RSpec
 - Agile/XP
-- Probably a whole lot more besides
+- Probably a whole lot more I've forgotten...it was exhaustive
 
 #### London College of Communication (2008 to 2009)
 
@@ -106,4 +108,4 @@ I mean, this just came with the territory...
 
 ## Hobbies
 
-I'm a keen musician and songwriter, a veteran of the Camden pub circuit. As well as that I've tried my hand at comedy, performing at the Edinburgh Fringe in 2018 and Glasgow Fringe in 2019. This latter hobby also led to a couple of bizarre TV appearances.
+I'm a keen musician and songwriter, a veteran of the Camden pub circuit. As well as that I've tried my hand at comedy, performing at the Edinburgh Fringe in 2018 and Glasgow Fringe in 2019. This latter hobby also led to a couple of bizarre TV appearances. I also love going out and running long distances, and the resultant hunger perfectly complements another passion of mine: cooking (my signature dish is a Moroccan-style tagine).
