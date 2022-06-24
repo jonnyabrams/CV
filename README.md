@@ -12,8 +12,6 @@ In my time as a journalist and online editor, I got to do many things I could pr
 
 My time at Makers taught me so much, not least that I absolutely love working as part of a team. The best weeks of the course for me were those spent doing group projects, and I found Makers' emphasis on pair-programming to be ideal. I'm a sociable person and the daily interaction reawakened something in me that had been supressed by years of working relatively individually. Even when the collaborative working was remote, it was a joy to bounce ideas off other people and learn from them. 
 
-I've decided to be picky with my job hunt to try and land something I think I'd really enjoy and that I'd feel proud to be contributing to, so if you're reading this (and congratulations on making it this far) then I really would love to be part of your team.
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
