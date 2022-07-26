@@ -16,10 +16,10 @@ My time at Makers taught me so much, not least that I absolutely love working as
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Acebook](https://github.com/jonnyabrams/acebook-quack-overflow) | A Facebook clone | JavaScript, Express, CSS, MongoDB, Handlebars             |
-| [Goal Setter](https://github.com/jonnyabrams/goalsetter-app-mern-stack)  | A goal-setting app | React/Redux, Express |
-| [Tom's Escape](https://github.com/jonnyabrams/toms-escape-game)        | A 3-level point & click game | React, CSS, MongoDB |
-| [Chitter](https://github.com/jonnyabrams/chitter-challenge)  | A Twitter clone | Ruby, Capybara, Sinatra, PostgreSQL |
+| [Bookface](https://github.com/jonnyabrams/bookface) | A full-stack Facebook clone | React.js, Express, Node, MongoDB, Redux, JWT             |
+| [Twitstagram](https://github.com/jonnyabrams/twitstagram)  | A full-stack Twitter/Instagram hybrid | React.js, Express, Node, MongoDB, Redux, JWT |
+| [Task Bastard](https://github.com/jonnyabrams/task-bastard-tsx)        | An uncompromising drag-and-drop task manager! | React, TypeScript |
+| [Wu Wants to Be a Millionaire?](https://github.com/jonnyabrams/wu-wants-to-be-a-millionaire)  | A Wu-Tang Clan-based playable Who Wants to Be a Millionaire? game| React.js |
 
 
 ## Work Experience
