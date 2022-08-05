@@ -1,4 +1,33 @@
-## Jonny Abrams
+# Jonny Abrams CV
+
+## Languages and technologies I'm comfortable with
+
+* JavaScript
+* TypeScript
+* Ruby
+* Python
+* React
+* Next.js
+* Node
+* Express
+* Redux
+* Redux Toolkit
+* Context API
+* Zustand
+* MongoDB
+* GraphQL
+* PostgreSQL
+* CSS
+* Tailwind CSS
+* styled-components
+* HTML
+* Jest
+* Cypress
+* RSpec
+* Firebase
+* Sanity
+
+## A bit about me...
 
 Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. It combines key elements of my other main passions in life: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with the testing frameworks heckling away from the gallery (Jest couldn't be more aptly named in this regard).
 
