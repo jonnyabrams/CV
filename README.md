@@ -27,6 +27,18 @@
 * Firebase
 * Sanity
 
+## Projects
+
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| [TokTik](https://github.com/jonnyabrams/toktik) | A full-stack TikTok clone | TypeScript, React, Next.js, Sanity, Tailwind CSS, Zustand |
+| [YourTube](https://github.com/jonnyabrams/yourtube) | A full-stack YouTube clone | React.js, Express, Node, MongoDB, Firebase |
+| [Bookface](https://github.com/jonnyabrams/bookface) | A full-stack Facebook clone | React.js, Express, Node, MongoDB, Redux, JWT             |
+| [Twitstagram](https://github.com/jonnyabrams/twitstagram)  | A full-stack Twitter/Instagram hybrid | React.js, Express, Node, MongoDB, Redux, JWT |
+| [Task Bastard](https://github.com/jonnyabrams/task-bastard-tsx)        | An uncompromising drag-and-drop task manager! | React, TypeScript |
+| [Wu Wants to Be a Millionaire?](https://github.com/jonnyabrams/wu-wants-to-be-a-millionaire)  | A Wu-Tang Clan-based playable Who Wants to Be a Millionaire? game| React.js |
+
+
 ## A bit about me...
 
 Coding is a passion I'd never envisaged for myself, but with hindsight it makes total sense. It combines key elements of my other main passions in life: the lateral thinking and endless solutions of creative writing, the intuitive decision-making of musical composition, even a touch of comedy with the testing frameworks heckling away from the gallery (Jest couldn't be more aptly named in this regard).
@@ -40,16 +52,6 @@ How sweetly naive it seems to me now, the notion that knowing some basic HTML wo
 In my time as a journalist and online editor, I got to do many things I could previously only have dreamed of: I'd conducted face-to-face interviews with household names from the worlds of sport and entertainment, including many personal heroes, and I'd poured my accumulated expertise and contacts into setting up a small media company. These experiences unlocked a lot of initiative and self-discipline that I didn't know I had; I had to constantly dream up new features, fine-tune existing ones and mentor new writers, just as I myself had been mentored when starting out on the Entertainment desk at Edinburgh Evening News. It also required a level of research that continues to serve me well when new challenges present themselves.
 
 My time at Makers taught me so much, not least that I absolutely love working as part of a team. The best weeks of the course for me were those spent doing group projects, and I found Makers' emphasis on pair-programming to be ideal. I'm a sociable person and the daily interaction reawakened something in me that had been suppressed by years of working relatively individually. Even when the collaborative working was remote, it was a joy to bounce ideas off other people and learn from them. 
-
-## Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [Bookface](https://github.com/jonnyabrams/bookface) | A full-stack Facebook clone | React.js, Express, Node, MongoDB, Redux, JWT             |
-| [Twitstagram](https://github.com/jonnyabrams/twitstagram)  | A full-stack Twitter/Instagram hybrid | React.js, Express, Node, MongoDB, Redux, JWT |
-| [Task Bastard](https://github.com/jonnyabrams/task-bastard-tsx)        | An uncompromising drag-and-drop task manager! | React, TypeScript |
-| [Wu Wants to Be a Millionaire?](https://github.com/jonnyabrams/wu-wants-to-be-a-millionaire)  | A Wu-Tang Clan-based playable Who Wants to Be a Millionaire? game| React.js |
-
 
 ## Work Experience
 
