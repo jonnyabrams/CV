@@ -10,6 +10,8 @@
 * Next.js
 * Node
 * Express
+* Svelte
+* SvelteKit
 * Redux
 * Redux Toolkit
 * Context API
